@@ -8,7 +8,7 @@ A modern, responsive Flutter application designed for streaming entertainment co
 
 | Screen 1 | Screen 2 | Screen 3 |
 | :---: | :---: | :---: |
-| <img src="assets/screenshots/Screenshot%202026-09-30%20112258.png" width="230" alt="Screen 1"> | <img src="assets/screenshots/Screenshot%202026-09-30%20112349.png" width="230" alt="Screen 2"> | <img src="assets/screenshots/Screenshot%202026-09-30%20112422.png" width="230" alt="Screen 3"> |
+| <img src="assets/screenshots/Screenshot%202026-09-30%20112258.png" width="230" alt="Screen 1"> | <img src="assets/screenshots/Screenshot%202026-09-30%20112349.png" width="280" alt="Screen 2"> | <img src="assets/screenshots/Screenshot%202026-09-30%20112422.png" width="230" alt="Screen 3"> |
 
 ---
 
